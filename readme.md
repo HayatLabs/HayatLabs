@@ -14,7 +14,5 @@ research, system thinking, and experimental software.
   <img alt="HayatLabs's GitHub profile" src="https://gh.crafter.run/HayatLabs?theme=dark&cols=80" />
 </picture>
 
-```
-Contact : hayatlabs.explore@gmail.com
-```
+``` Email : hayatlabs.explore@gmail.com ```
 
